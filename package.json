@@ -13,7 +13,7 @@
     "prettier": "^3.2.5",
     "turbo": "latest"
   },
-  "packageManager": "pnpm@9.0.6+sha1.648f6014eb363abb36618f2ba59282a9eeb3e879",
+  "packageManager": "pnpm@9.1.0+sha1.217063ce3fcbf44f3051666f38b810f1ddefee4a",
   "engines": {
     "node": ">=18"
   }
