@@ -48,7 +48,7 @@ Without global `turbo`, use your package manager:
 ```sh
 cd my-turborepo
 npx turbo build
-yarn dlx turbo build
+pnpm dlx turbo build
 pnpm exec turbo build
 ```
 
@@ -64,7 +64,7 @@ Without global `turbo`:
 
 ```sh
 npx turbo build --filter=docs
-yarn exec turbo build --filter=docs
+pnpm exec turbo build --filter=docs
 pnpm exec turbo build --filter=docs
 ```
 
@@ -84,7 +84,7 @@ Without global `turbo`, use your package manager:
 ```sh
 cd my-turborepo
 npx turbo dev
-yarn exec turbo dev
+pnpm exec turbo dev
 pnpm exec turbo dev
 ```
 
@@ -100,7 +100,7 @@ Without global `turbo`:
 
 ```sh
 npx turbo dev --filter=web
-yarn exec turbo dev --filter=web
+pnpm exec turbo dev --filter=web
 pnpm exec turbo dev --filter=web
 ```
 
@@ -125,7 +125,7 @@ Without global `turbo`, use your package manager:
 ```sh
 cd my-turborepo
 npx turbo login
-yarn exec turbo login
+pnpm exec turbo login
 pnpm exec turbo login
 ```
 
@@ -143,7 +143,7 @@ Without global `turbo`:
 
 ```sh
 npx turbo link
-yarn exec turbo link
+pnpm exec turbo link
 pnpm exec turbo link
 ```
 
